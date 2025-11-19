@@ -1,5 +1,7 @@
 # GS2 - Data Structure and Algorithms
 
+feito por: Leticia Giordani villegas - RM564028, Sarah Sayako Trolezi - RM563841 1CCR e Giovanna Aparecida Gonçalves Pavesi Botero - RM562018 1CCPQ
+
 # 1. Introdução
 Breve explicação do objetivo do desafio: uso crítico de IA em problemas de estruturas de dados.
 
